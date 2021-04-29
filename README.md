@@ -72,7 +72,7 @@ https://fibonachicken.herokuapp.com/ </br></br>
 모달에서 퇴근시간을 HH시MM분 형식으로 입력한 후, 단위를 선택해주세요.</br></br>
 <img src = "https://user-images.githubusercontent.com/45932570/116518840-b6b54700-a90b-11eb-9951-0a9903550ef9.png"></br>
 퇴근까지 남은 시간을 선택한 단위로 즉시 알려드립니다.</br>
-퇴근 시간이 되면, '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br>
+퇴근 시간이 되면, '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br></br>
 </p>
 
 ## 🙏 퇴사기원
