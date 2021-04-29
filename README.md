@@ -39,15 +39,20 @@
 ![image](https://user-images.githubusercontent.com/45932570/116507400-2589a480-a8fa-11eb-85ad-21bf729e21db.png)
 
 ## 🍗 피보나치킨
+6명이 치킨을 배부르게 먹으려면... 3마리는 너무 적지 않을까? 그렇다고 4마리는 너무 많을 것 같은데..</br>
+피보나치킨을 사용하세요! 몇 마리를 시켜야 할 지 결정해드립니다.</br></br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116429096-870d2d00-a880-11eb-9051-dad934679570.jpg"></br>
-<i>3명이 먹는다면 2마리를 시키거라. 능히 3명을 먹이는 데 부족함이 없느니라.</i>
+<i>6명이 먹는다면 4마리를 시키거라. 능히 6명을 먹이는 데 부족함이 없느니라.</i>
 </p></br>
 
 ### 실행화면
-![image](https://user-images.githubusercontent.com/45932570/116501174-1f3ffc00-a8eb-11eb-9b92-f47cc6535f11.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116501190-2830cd80-a8eb-11eb-9acb-b4d865028889.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116501202-341c8f80-a8eb-11eb-8858-2e96209dc615.png)</br></br>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/45932570/116516138-304b3600-a908-11eb-9732-cae35dc6d4b0.png"></br>
+땅파고 메인 메뉴에서 피보나치킨을 선택하면 인원수를 입력할 수 있습니다.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116516290-68eb0f80-a908-11eb-94df-c7d4f6851fe1.png"></br>
+인원수를 입력한 후 확인 버튼을 누르면 적절한 치킨 수를 알려줍니다.</br>
+</p></br>
 
 ### 출처
 https://fibonachicken.herokuapp.com/
