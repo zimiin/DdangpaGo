@@ -23,13 +23,15 @@
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116509398-2a505780-a8fe-11eb-80ac-c7e4b8acc1d4.png"></br>
 소라고동에게 물어보기 버튼을 선택하면 질문을 입력할 수 있습니다.</br></br>
-<img src = "https://user-images.githubusercontent.com/45932570/116513589-caa97a80-a904-11eb-9151-14654fbf5ab1.png"></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116551355-d14ee680-a932-11eb-924d-65c277083dcd.png"></br>
 질문을 입력한 후 확인 버튼을 누르면 소라고동의 답변을 들을 수 있습니다.</br>
 </p></br>
 
 ---
 
 ## 💬야민정음 번역기
+잆럮햕 뮩쨩읉 햕뀪읹먅 얉야뾽 쓔 있꼐 뼍얶햬뜲릾니땨.</br>
+여가러지 옵션이 있요어! </br></br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116428680-1b2ac480-a880-11eb-86e3-5af8c7914589.jpg"></br>
 <i>윴튜쁪 떘끑 왠뀪읹뜳이 묫얉야뾰껥 햐끼</i>
@@ -37,10 +39,11 @@
 
 ### 실행화면
 <p align="center">
-<img src = ""></br>
---- 추가 예정 ---</br></br>
-<img src = ""></br>
---- 추가 예정 ---</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116557130-1bd36180-a939-11eb-8c9d-dbf58dfc581c.png"></br>
+땅파고 메인메뉴에서 '야민정음 번역기'를 선택합니다.</br>
+모달에서 사용 목적을 선택하신 후, 번역하려 하는 문장을 입력해주세요.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116557427-65bc4780-a939-11eb-8e96-2d60fd84ba6d.png"></br>
+땅파고가 입력한 문장을 한국인만 알아볼 수 있게 번역해줍니다.</br></br>
 </p>
 
 ---
@@ -55,8 +58,8 @@
 
 ### 실행화면
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/45932570/116516138-304b3600-a908-11eb-9732-cae35dc6d4b0.png"></br>
-땅파고 메인 메뉴에서 피보나치킨을 선택하면 인원수를 입력할 수 있습니다.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116558075-07439900-a93a-11eb-8698-4060d4c6cc5b.png"></br>
+땅파고 메인메뉴에서 피보나치킨을 선택하면 인원수를 입력할 수 있습니다.</br></br>
 <img src = "https://user-images.githubusercontent.com/45932570/116516290-68eb0f80-a908-11eb-94df-c7d4f6851fe1.png"></br>
 인원수를 입력한 후 확인 버튼을 누르면 적절한 치킨 수를 알려줍니다.</br>
 </p>
@@ -114,7 +117,7 @@ https://fibonachicken.herokuapp.com/ </br></br>
 ### 실행화면
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116525072-1f53f200-a913-11eb-873c-3b558791aa2e.png"></br>
-22개의 카드 버튼 중 중 하나를 선택하면, 선택한 카드 이미지와 함께 풀이를 볼 수 있습니다.</br></br>
+22개의 카드 버튼 중 하나를 선택하면, 선택한 카드의 이미지와 함께 풀이를 볼 수 있습니다.</br></br>
 </p>
 
 ### 출처
