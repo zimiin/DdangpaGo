@@ -59,15 +59,19 @@ https://fibonachicken.herokuapp.com/ </br></br>
 
 ## ⏰ 퇴근알람
 오늘따라 지겹게도 시간이 안가! 도대체 퇴근까지는 얼마나 남은거지? </br>
-퇴근알람을 사용하시면 퇴근까지 남은 시간을 시, 분, 초, "밀리초" 단위로 알려드립니다.</br></br>
+퇴근알람을 사용하시면 땅파고가 퇴근까지 남은 시간을 시, 분, 초, "밀리초" 단위로 계산해드립니다.</br></br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116431049-5a5a1500-a882-11eb-8171-c4aead060000.jpg"></br>
 <i>퇴근까지 남은시간 22302463밀리초</i>
 </p></br>
 
 ### 실행화면
-![image](https://user-images.githubusercontent.com/45932570/116501324-75ad3a80-a8eb-11eb-85f1-1c236cc45a8d.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116501346-83fb5680-a8eb-11eb-8e9b-4dc2ec9eaac9.png)</br></br>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/45932570/116518818-b026cf80-a90b-11eb-9f33-1c5ded3da566.png"></br>
+땅파고 메인 메뉴에서 퇴근알람을 선택해주세요. 퇴근시간을 HH시MM분 형식으로 입력한 후, 단위를 선택해주세요.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116518840-b6b54700-a90b-11eb-9951-0a9903550ef9.png"></br>
+현재부터 퇴근까지 남은 시간을 선택한 단위로 즉시 알려드리고, 퇴근 시간이 되면 '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br>
+</p>
 
 ## 🙏 퇴사기원
 <p align="center">
