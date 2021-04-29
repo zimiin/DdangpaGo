@@ -58,6 +58,8 @@
 https://fibonachicken.herokuapp.com/ </br></br>
 
 ## ⏰ 퇴근알람
+오늘따라 지겹게도 시간이 안가! 도대체 퇴근까지는 얼마나 남은거지? </br>
+퇴근알람을 사용하시면 퇴근까지 남은 시간을 시, 분, 초, "밀리초" 단위로 알려드립니다.</br></br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116431049-5a5a1500-a882-11eb-8171-c4aead060000.jpg"></br>
 <i>퇴근까지 남은시간 22302463밀리초</i>
