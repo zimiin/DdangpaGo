@@ -11,6 +11,8 @@
 ---
 
 ## 🐚 마법의 소라고동
+오늘 점심으로 떡볶이가 어떨까? 헤어진 여자/남자친구에게 연락해도 될까?</br>
+무엇이든 물어보세요! 마법의 소라고동이 답해드립니다.</br></br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116428303-bf603b80-a87f-11eb-95ed-253db2137c92.png"></br>
 <i>나: 마법의 고동님, 스파게티를 먹을까요, 빵을 먹을까요?</i></br>
@@ -18,10 +20,12 @@
 </p></br>
 
 ### 실행화면
-![image](https://user-images.githubusercontent.com/45932570/116500475-a12f2580-a8e9-11eb-9683-63e2a445363f.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116500526-b310c880-a8e9-11eb-8a6f-0712255b9650.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116500928-85784f00-a8ea-11eb-8913-7df959384c0c.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116500967-a50f7780-a8ea-11eb-8ec4-82359604dc59.png)</br></br>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/45932570/116509398-2a505780-a8fe-11eb-80ac-c7e4b8acc1d4.png"></br>
+소라고동에게 물어보기 버튼을 선택하면 질문을 입력할 수 있습니다.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116513589-caa97a80-a904-11eb-9151-14654fbf5ab1.png"></br>
+질문을 입력한 후 확인 버튼을 누르면 소라고동의 답변을 들을 수 있습니다.</br>
+</p></br>
 
 ## ↔ 한국인만 알아볼 수 있는 번역기
 <p align="center">
