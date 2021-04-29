@@ -27,6 +27,8 @@
 질문을 입력한 후 확인 버튼을 누르면 소라고동의 답변을 들을 수 있습니다.</br>
 </p></br>
 
+---
+
 ## 💬야민정음 번역기
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116428680-1b2ac480-a880-11eb-86e3-5af8c7914589.jpg"></br>
@@ -34,9 +36,14 @@
 </p></br>
 
 ### 실행화면
-![image](https://user-images.githubusercontent.com/45932570/116507379-1e629680-a8fa-11eb-854d-cfef6deae86c.png)
-![image](https://user-images.githubusercontent.com/45932570/116507389-21f61d80-a8fa-11eb-9356-805c7bf54bab.png)
-![image](https://user-images.githubusercontent.com/45932570/116507400-2589a480-a8fa-11eb-85ad-21bf729e21db.png)
+<p align="center">
+<img src = ""></br>
+--- 추가 예정 ---</br></br>
+<img src = ""></br>
+--- 추가 예정 ---</br></br>
+</p>
+
+---
 
 ## 🍗피보나치킨
 6명이 치킨을 배부르게 먹으려면... 3마리는 너무 적지 않을까? 그렇다고 4마리는 너무 많을 것 같은데..</br>
@@ -57,6 +64,8 @@
 ### 출처
 https://fibonachicken.herokuapp.com/ </br></br>
 
+---
+
 ## ⏰퇴근알람
 오늘따라 지겹게도 시간이 안가! 도대체 퇴근까지는 얼마나 남은거지? </br>
 퇴근알람을 사용하시면 땅파고가 퇴근까지 남은 시간을 시, 분, 초, "밀리초" 단위로 계산해드립니다.</br></br>
@@ -75,6 +84,8 @@ https://fibonachicken.herokuapp.com/ </br></br>
 퇴근 시간이 되면, '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br></br>
 </p>
 
+---
+
 ## 🙏퇴사기원
 직장인이라면 누구나 가슴속에 사표 한 장 쯤 품고 있잖아요?</br>
 오늘로 퇴사 기원 25일차... 그리고 우리 회사에서 나의 퇴사 기원 랭킹은?</br></br>
@@ -90,6 +101,8 @@ https://fibonachicken.herokuapp.com/ </br></br>
 <img src = "https://user-images.githubusercontent.com/45932570/116523236-fb8fac80-a910-11eb-94ea-db21dcb70b95.png"></br>
 '기원 랭킹 보기'를 선택하면, 퇴사 기원 랭킹을 볼 수 있습니다.</br></br>
 </p>
+
+---
 
 ## 🔯타로뽑기
 22장의 카드 중 하나를 뽑아 오늘의 운세를 봐요!</br>
