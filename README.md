@@ -52,10 +52,10 @@
 땅파고 메인 메뉴에서 피보나치킨을 선택하면 인원수를 입력할 수 있습니다.</br></br>
 <img src = "https://user-images.githubusercontent.com/45932570/116516290-68eb0f80-a908-11eb-94df-c7d4f6851fe1.png"></br>
 인원수를 입력한 후 확인 버튼을 누르면 적절한 치킨 수를 알려줍니다.</br>
-</p></br>
+</p>
 
 ### 출처
-https://fibonachicken.herokuapp.com/
+https://fibonachicken.herokuapp.com/ </br></br>
 
 ## ⏳ 퇴근시간 타이머
 <p align="center">
