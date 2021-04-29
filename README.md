@@ -2,12 +2,12 @@
 
 ### 땅파고 기능
 
-1. 마법의 소라고동</br>
-2. 야민정음 번역기</br>
-3. 피보나치킨</br>
-4. 퇴근알람</br>
-5. 퇴사기원</br>
-6. 타로뽑기</br>
+1. [마법의 소라고동](#마법의-소라고동)</br>
+2. [야민정음 번역기](#야민정음-번역기)</br>
+3. [피보나치킨](#피보나치킨)</br>
+4. [퇴근알람](#퇴근알람)</br>
+5. [퇴사기원](#퇴사기원)</br>
+6. [타로뽑기](#타로뽑기)</br>
 ---
 
 ## 🐚마법의 소라고동
@@ -27,7 +27,7 @@
 질문을 입력한 후 확인 버튼을 누르면 소라고동의 답변을 들을 수 있습니다.</br>
 </p></br>
 
-## 💬 야민정음 번역기
+## 💬야민정음 번역기
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116428680-1b2ac480-a880-11eb-86e3-5af8c7914589.jpg"></br>
 <i>윴튜쁪 떘끑 왠뀪읹뜳이 묫얉야뾰껥 햐끼</i>
@@ -38,7 +38,7 @@
 ![image](https://user-images.githubusercontent.com/45932570/116507389-21f61d80-a8fa-11eb-9356-805c7bf54bab.png)
 ![image](https://user-images.githubusercontent.com/45932570/116507400-2589a480-a8fa-11eb-85ad-21bf729e21db.png)
 
-## 🍗 피보나치킨
+## 🍗피보나치킨
 6명이 치킨을 배부르게 먹으려면... 3마리는 너무 적지 않을까? 그렇다고 4마리는 너무 많을 것 같은데..</br>
 피보나치킨을 사용하세요! 몇 마리를 시켜야 할 지 결정해드립니다.</br></br>
 <p align="center">
@@ -57,7 +57,7 @@
 ### 출처
 https://fibonachicken.herokuapp.com/ </br></br>
 
-## ⏰ 퇴근알람
+## ⏰퇴근알람
 오늘따라 지겹게도 시간이 안가! 도대체 퇴근까지는 얼마나 남은거지? </br>
 퇴근알람을 사용하시면 땅파고가 퇴근까지 남은 시간을 시, 분, 초, "밀리초" 단위로 계산해드립니다.</br></br>
 <p align="center">
@@ -75,7 +75,7 @@ https://fibonachicken.herokuapp.com/ </br></br>
 퇴근 시간이 되면, '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br></br>
 </p>
 
-## 🙏 퇴사기원
+## 🙏퇴사기원
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116431813-13205400-a883-11eb-84a2-3d6c754d7311.png"></br>
 <i>퇴사 기원 25일차</i>
@@ -88,7 +88,7 @@ https://fibonachicken.herokuapp.com/ </br></br>
 ![image](https://user-images.githubusercontent.com/45932570/116501463-ca50b580-a8eb-11eb-97e4-1f6b4f407e6c.png)</br>
 ![image](https://user-images.githubusercontent.com/45932570/116501488-d6d50e00-a8eb-11eb-9e18-d314d666a4e2.png)</br></br>
 
-## 🔯 타로뽑기
+## 🔯타로뽑기
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116432078-5084e180-a883-11eb-848a-1f72cfe1a1a3.jpg"></br>
 <i>오늘 하루는 뜻한 바를 이룰 수 있는 날이 되겠군요.</i>
