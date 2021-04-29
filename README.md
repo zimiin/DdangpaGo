@@ -92,18 +92,20 @@ https://fibonachicken.herokuapp.com/ </br></br>
 </p>
 
 ## 🔯타로뽑기
+22장의 카드 중 하나를 뽑아 오늘의 운세를 봐요!</br>
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/45932570/116432078-5084e180-a883-11eb-848a-1f72cfe1a1a3.jpg"></br>
 <i>오늘 하루는 뜻한 바를 이룰 수 있는 날이 되겠군요.</i>
 </p></br>
 
 ### 실행화면
-![image](https://user-images.githubusercontent.com/45932570/116501582-1ac81300-a8ec-11eb-8da2-7165e59d0d5b.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116501616-392e0e80-a8ec-11eb-8ae5-ba4186faec62.png)</br>
-![image](https://user-images.githubusercontent.com/45932570/116501626-40551c80-a8ec-11eb-8114-e573d9c7d865.png)</br></br>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/45932570/116525072-1f53f200-a913-11eb-873c-3b558791aa2e.png"></br>
+22개의 카드 버튼 중 중 하나를 선택하면, 선택한 카드 이미지와 함께 풀이를 볼 수 있습니다.</br></br>
+</p>
 
 ### 출처
-https://unse.daily.co.kr/?p=tarot
+https://unse.daily.co.kr/?p=tarot </br>
 
 ---
 
