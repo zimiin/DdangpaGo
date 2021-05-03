@@ -42,7 +42,7 @@
 <img src = "https://user-images.githubusercontent.com/45932570/116557130-1bd36180-a939-11eb-8c9d-dbf58dfc581c.png"></br>
 땅파고 메인메뉴에서 '야민정음 번역기'를 선택합니다.</br>
 모달에서 사용 목적을 선택하신 후, 번역하려 하는 문장을 입력해주세요.</br></br>
-<img src = "https://user-images.githubusercontent.com/45932570/116557427-65bc4780-a939-11eb-8e96-2d60fd84ba6d.png"></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116591296-9b712880-a959-11eb-8aa4-ff615ef1b570.png"></br>
 땅파고가 입력한 문장을 한국인만 알아볼 수 있게 번역해줍니다.</br></br>
 </p>
 
@@ -79,10 +79,10 @@ https://fibonachicken.herokuapp.com/ </br></br>
 
 ### 실행화면
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/45932570/116518818-b026cf80-a90b-11eb-9f33-1c5ded3da566.png"></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116588326-5e576700-a956-11eb-9d27-7ea37310207a.png"></br>
 땅파고 메인 메뉴에서 퇴근알람을 선택해주세요.</br>
-모달에서 퇴근시간을 HH시MM분 형식으로 입력한 후, 단위를 선택해주세요.</br></br>
-<img src = "https://user-images.githubusercontent.com/45932570/116518840-b6b54700-a90b-11eb-9951-0a9903550ef9.png"></br>
+모달에서 퇴근시간을 입력한 후, 단위를 선택해주세요.</br></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116589963-2d783180-a958-11eb-891b-171fb83b34a0.png"></br>
 퇴근까지 남은 시간을 선택한 단위로 즉시 알려드립니다.</br>
 퇴근 시간이 되면, '퇴근시간이 되었습니다' 메시지를 보내드립니다.</br></br>
 </p>
@@ -93,13 +93,13 @@ https://fibonachicken.herokuapp.com/ </br></br>
 직장인이라면 누구나 가슴속에 사표 한 장 쯤 품고 있잖아요?</br>
 오늘로 퇴사 기원 25일차... 그리고 우리 회사에서 나의 퇴사 기원 랭킹은?</br></br>
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/45932570/116431813-13205400-a883-11eb-84a2-3d6c754d7311.png"></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116591676-15091680-a95a-11eb-90ee-005def0d1450.png"></br>
 <i>퇴사 기원 25일차</i>
 </p></br>
 
 ### 실행화면
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/45932570/116523221-f4689e80-a910-11eb-87de-7160a54ae147.png"></br>
+<img src = "https://user-images.githubusercontent.com/45932570/116595223-0d4b7100-a95e-11eb-8c9b-315e1857bfe5.png"></br>
 '퇴사 기원하기'를 선택하고, '퇴사하고 싶으신가요?' 질문에 답변하면 기원에 성공합니다.</br></br>
 <img src = "https://user-images.githubusercontent.com/45932570/116523236-fb8fac80-a910-11eb-94ea-db21dcb70b95.png"></br>
 '기원 랭킹 보기'를 선택하면, 퇴사 기원 랭킹을 볼 수 있습니다.</br></br>
